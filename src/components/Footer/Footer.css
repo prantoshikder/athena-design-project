@@ -1,0 +1,42 @@
+.footer{
+  margin-bottom: 50px;
+}
+.footer p{
+  font-size: 20px;
+  color:gray;
+}
+
+.form-control{
+  height: 50px;
+}
+.inputWidth{
+  width: 60%;
+  margin-bottom: 100px;
+}
+.inputWidth input{
+  padding: 10px;
+}
+.inputBtn{
+  background-image: linear-gradient(to right, #1AD4BD , #0AB3E4);
+  color: #fff;
+  border: none;
+  width: 100px;
+  padding: 2px 8px 0px 8px;
+  margin-left: 0;
+  border-radius: 5px;
+}
+.footerImg{
+  height: 80px;
+}
+.behanceLogo{
+  width: 35px;
+  height: 35px;
+}
+.footerList img{
+  margin-left: 20px;
+}
+.footerList ul li{
+  text-align: left;
+  border-color: white;
+
+}

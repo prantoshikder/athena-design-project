@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+.running-project-part {
+    padding: 60px 0px;
+}
+
+.running-project-btn a {
+    color: #ffffff !important;
+    padding: 15px 25px;
+    background-image: linear-gradient(to right, #1ddbb6, #07adec);
+    border-radius: 25px 0px;
+}
+
+.running-project-content {
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.running-project-content h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}

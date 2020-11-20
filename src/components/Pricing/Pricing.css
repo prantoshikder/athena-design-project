@@ -1,0 +1,30 @@
+.card{
+    box-shadow: 0px 0px 15px  lightgray;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.card:hover{
+    border: 2px solid #0069D9;
+    box-shadow: none;
+}
+.list-item{
+    list-style: none;
+}
+.list-item li{
+    margin-top: 13px;
+    color: grey;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.order-btn a{
+    color: #ffff !important;
+    padding: 15px 25px;
+    background-image: linear-gradient(to right, #00d2ff 0%, #0069D9 100%);
+    border-radius: 25px 0;
+     
+}
+
+.order-btn a:hover{
+    text-decoration: none;
+}

@@ -1,0 +1,7 @@
+.card-style:hover{
+    border: 0;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px 0px 50px 0px;
+    transition: 1.50s;
+    box-shadow: 10px 20px 80px #b3ffe0;
+}
